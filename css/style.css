@@ -1,0 +1,41 @@
+.custom-header {
+  background-color: #131921;
+}
+.custom-img {
+  height: 510px;
+}
+.card img {
+  height: 200px;
+}
+footer {
+  background-color: #131921;
+  color: #ffff !important;
+}
+/* image hover */
+.inner {
+  overflow: hidden;
+}
+
+.inner img {
+  transition: all 4s;
+}
+.inner:hover img {
+  transform: scale(1.5);
+}
+/* image hover ends */
+.deals-type,
+.prices,
+.discount {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+.deals-type a {
+  color: #4fabd1;
+}
+a {
+  color: #4fabd1;
+}
+
+.prices a {
+  color: #4fabd1;
+}
